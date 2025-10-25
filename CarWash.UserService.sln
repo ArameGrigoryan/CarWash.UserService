@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarWash.UserService.Api", "CarWash.UserService.Api\CarWash.UserService.Api.csproj", "{DF180F25-A769-492E-8AB6-42DD560697A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarWash.UserService.Domain", "CarWash.UserService.Domain\CarWash.UserService.Domain.csproj", "{8A5229FB-FC27-4DAA-84E0-88B154B99317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarWash.UserService.Infrastructure", "CarWash.UserService.Infrastructure\CarWash.UserService.Infrastructure.csproj", "{41E7DA69-89E9-420F-BE6C-CA7F4123D120}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarWash.UserService.Application", "CarWash.UserService.Application\CarWash.UserService.Application.csproj", "{C2A7CBC1-448A-4B17-848C-D1B0E1B5F455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF180F25-A769-492E-8AB6-42DD560697A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF180F25-A769-492E-8AB6-42DD560697A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF180F25-A769-492E-8AB6-42DD560697A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF180F25-A769-492E-8AB6-42DD560697A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5229FB-FC27-4DAA-84E0-88B154B99317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5229FB-FC27-4DAA-84E0-88B154B99317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5229FB-FC27-4DAA-84E0-88B154B99317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5229FB-FC27-4DAA-84E0-88B154B99317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E7DA69-89E9-420F-BE6C-CA7F4123D120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E7DA69-89E9-420F-BE6C-CA7F4123D120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E7DA69-89E9-420F-BE6C-CA7F4123D120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E7DA69-89E9-420F-BE6C-CA7F4123D120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2A7CBC1-448A-4B17-848C-D1B0E1B5F455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A7CBC1-448A-4B17-848C-D1B0E1B5F455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A7CBC1-448A-4B17-848C-D1B0E1B5F455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A7CBC1-448A-4B17-848C-D1B0E1B5F455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

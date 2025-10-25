@@ -1,0 +1,17 @@
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/bin/Debug/net8.0/CarWash.UserService.Infrastructure.deps.json
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/bin/Debug/net8.0/CarWash.UserService.Infrastructure.runtimeconfig.json
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/bin/Debug/net8.0/CarWash.UserService.Infrastructure.dll
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/bin/Debug/net8.0/CarWash.UserService.Infrastructure.pdb
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/bin/Debug/net8.0/CarWash.UserService.Domain.dll
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/bin/Debug/net8.0/CarWash.UserService.Domain.pdb
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/obj/Debug/net8.0/CarWash.UserService.Infrastructure.csproj.AssemblyReference.cache
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/obj/Debug/net8.0/CarWash.UserService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/obj/Debug/net8.0/CarWash.UserService.Infrastructure.AssemblyInfoInputs.cache
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/obj/Debug/net8.0/CarWash.UserService.Infrastructure.AssemblyInfo.cs
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/obj/Debug/net8.0/CarWash.UserService.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/obj/Debug/net8.0/CarWash..03A604F3.Up2Date
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/obj/Debug/net8.0/CarWash.UserService.Infrastructure.dll
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/obj/Debug/net8.0/refint/CarWash.UserService.Infrastructure.dll
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/obj/Debug/net8.0/CarWash.UserService.Infrastructure.pdb
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/obj/Debug/net8.0/CarWash.UserService.Infrastructure.genruntimeconfig.cache
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/obj/Debug/net8.0/ref/CarWash.UserService.Infrastructure.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/CarWash.UserService.Api.props" />
+</Project>
