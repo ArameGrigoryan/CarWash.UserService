@@ -17,3 +17,4 @@
 /Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Application/obj/Debug/net8.0/CarWash.UserService.Application.pdb
 /Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Application/obj/Debug/net8.0/CarWash.UserService.Application.genruntimeconfig.cache
 /Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Application/obj/Debug/net8.0/ref/CarWash.UserService.Application.dll
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Application/obj/Debug/net8.0/CarWash.UserService.Application.sourcelink.json

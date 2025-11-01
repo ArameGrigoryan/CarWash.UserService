@@ -9,3 +9,4 @@
 /Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Domain/obj/Debug/net8.0/refint/CarWash.UserService.Domain.dll
 /Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Domain/obj/Debug/net8.0/CarWash.UserService.Domain.pdb
 /Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Domain/obj/Debug/net8.0/ref/CarWash.UserService.Domain.dll
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Domain/obj/Debug/net8.0/CarWash.UserService.Domain.sourcelink.json

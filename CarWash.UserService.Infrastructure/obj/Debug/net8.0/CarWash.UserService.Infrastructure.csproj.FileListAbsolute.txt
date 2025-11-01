@@ -15,3 +15,4 @@
 /Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/obj/Debug/net8.0/CarWash.UserService.Infrastructure.pdb
 /Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/obj/Debug/net8.0/CarWash.UserService.Infrastructure.genruntimeconfig.cache
 /Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/obj/Debug/net8.0/ref/CarWash.UserService.Infrastructure.dll
+/Users/picsartacademy/Desktop/CarWash.UserService/CarWash.UserService.Infrastructure/obj/Debug/net8.0/CarWash.UserService.Infrastructure.sourcelink.json
